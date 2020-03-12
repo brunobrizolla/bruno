@@ -1,4 +1,4 @@
 # bruno
-Sistemas Embutidos
-Bruno Henrique Rodrigues Teixeira - 15.1.1459
+Sistemas Embutidos \n
+Bruno Henrique Rodrigues Teixeira - 15.1.1459 \n
 Paula Rabello
